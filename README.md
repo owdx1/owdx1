@@ -1,7 +1,7 @@
 <h1 align="center">hi i'm can</h1>
 <h3> currenctly learning: </h3>
 <ul>
-  <li> docker</li>
+  <li>react native</li>
   
 </ul>
 
