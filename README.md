@@ -2,6 +2,7 @@
 <h3> currenctly learning: </h3>
 <ul>
   <li>react native</li>
+  <li>flask</li>
   
 </ul>
 
