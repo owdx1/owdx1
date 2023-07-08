@@ -1,4 +1,4 @@
-<h1 align="center">hi i'm can</h1>
+<h1 align="center">hi i'm can, i work on backend technologies</h1>
 <h3> currenctly learning: </h3>
 <ul>
   <li>react native</li>
