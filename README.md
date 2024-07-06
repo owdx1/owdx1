@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ogulcan-yusuf-bozkurt-8a9690236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ogulcan-yusuf-bozkurt-8a9690236/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17288716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17288716" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0wdx1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0wdx1" height="30" width="40" /></a>
-<a href="https://ogulcanbozkurt.vercel.app/">Personal web app</a>
+<a href="https://ogulcanbozkurt.vercel.app/" target="_blank">Personal web app</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
